@@ -1,5 +1,3 @@
-Sure! Here's the README.md file for Elera - Virtual Assistant:
-
 # Elera - Virtual Assistant
 
 ## Overview
