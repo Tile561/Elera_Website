@@ -1,4 +1,4 @@
-Sure! Here's the README.md file for a website hosting the program Elera:
+
 
 # Elera Website
 
