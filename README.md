@@ -26,6 +26,5 @@ The virtual assistant market is growing rapidly, with increasing demand for auto
 
 Elera is a robust and comprehensive virtual assistant offering various features to streamline tasks and enhance productivity. With its innovative technology and user-friendly interface, Elera is poised for continued growth and success in the virtual assistant market.
 
-For more information, please refer to the [documentation](link-to-documentation).
 
 **Note: This README file provides an overview of Elera's key features and market positioning. Please refer to the documentation for detailed instructions on installation, usage, and configuration.**
