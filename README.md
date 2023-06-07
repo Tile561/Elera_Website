@@ -21,7 +21,7 @@ Elera is a cutting-edge virtual assistant that leverages advanced AI technology 
 To access and use Elera, follow the steps below:
 
 1. Visit the Elera website at [www.elera.com](http://tile561.pythonanywhere.com/login?next=%2F).
-2. The Webiste is only valid up until July 3rd 2023
+2. The webiste is only valid up until July 3rd 2023
 3. Sign up for an account or log in if you already have one.
 4. Download and install the Elera program on your device.
 5. Launch the Elera program and log in using your account credentials.
